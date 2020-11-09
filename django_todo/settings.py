@@ -26,7 +26,7 @@ SECRET_KEY = 'uetep(3%@@9#$xe))a*7wx38j8^_1u3g755sf)cxx-#9l)d95o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://django-testing-mps.herokuapp.com/']
 
 
 # Application definition
